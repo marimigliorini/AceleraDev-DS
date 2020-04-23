@@ -3,6 +3,9 @@ data-science-0/output.xml
 data-science-0/stdout.txt
 data-science-0/test_main.py
 
+coestatistica-1/stdout.txt
+coestatistica-1/__init__.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
