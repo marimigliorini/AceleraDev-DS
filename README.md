@@ -9,3 +9,7 @@ Desafio proposto no módulo 2 do programa tendo como objetivo o pré-procesament
 ## coestatistica-1
 
 Desafio do módulo 3 com o objetivo de obter dados estatísticos a partir de uma base de consumidores.
+
+## data-science-1
+
+Desafio do módulo 4 tendo como objetivo a exploração de distribuições de probabilidade a partir de suas principais funções. 
