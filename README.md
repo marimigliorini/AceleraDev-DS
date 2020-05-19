@@ -17,3 +17,7 @@ Desafio do módulo 4 tendo como objetivo a exploração de distribuições de pr
 ## data-science-2
 
 Desafio do módulo 5 tendo como objetivo a realização de testes de hipótese no dataset trabalhado.
+
+## data-science-3
+
+Desafio do módulo 6 que propõe a prática de redução de dimensionalidade utilizando PCA e RFE. 
