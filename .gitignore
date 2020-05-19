@@ -16,6 +16,11 @@ data-science-2/output.xml
 data-science-2/stdout.txt
 data-science-2/test_main.py
 
+data-science-3/main.py
+data-science-3/output.xml
+data-science-3/stdout.txt
+data-science-3/test_main.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
