@@ -21,6 +21,12 @@ data-science-3/output.xml
 data-science-3/stdout.txt
 data-science-3/test_main.py
 
+data-science-4/main.py
+data-science-4/output.xml
+data-science-4/stdout.txt
+data-science-4/test_main.py
+data-science-4/.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
