@@ -20,4 +20,8 @@ Desafio do módulo 5 tendo como objetivo a realização de testes de hipótese n
 
 ## data-science-3
 
-Desafio do módulo 6 que propõe a prática de redução de dimensionalidade utilizando PCA e RFE. 
+Desafio do módulo 6 que propõe a prática de redução de dimensionalidade utilizando PCA e RFE.
+
+## data-science-4
+
+Desafio do módulo 7, voltado para feature engineering. 
