@@ -24,4 +24,8 @@ Desafio do módulo 6 que propõe a prática de redução de dimensionalidade uti
 
 ## data-science-4
 
-Desafio do módulo 7, voltado para feature engineering. 
+Desafio do módulo 7, voltado para feature engineering.
+
+## enem-2
+
+Dasafio do módulo 8 com o objetivo de prever a nota de matemática do ENEM 2016.
