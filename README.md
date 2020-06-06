@@ -29,3 +29,7 @@ Desafio do módulo 7, voltado para feature engineering.
 ## enem-2
 
 Dasafio do módulo 8 com o objetivo de prever a nota de matemática do ENEM 2016.
+
+## enem-4
+
+Desafio do módulo 9 que consiste em descobrir quem fez o ENEM 2016 apenas para treino. 
