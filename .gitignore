@@ -31,6 +31,9 @@ enem-2/stdout.txt
 enem-2/test_main.py
 enem-2/.DS_Store
 
+enem-4/stdout.txt
+enem-4/test_main.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
